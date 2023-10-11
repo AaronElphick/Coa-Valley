@@ -19,7 +19,6 @@ library(ranger)
 library(rgdal)
 remotes::install_github("fdetsch/MODIS")
 library(MODIS)
-?matplot
 
 setwd("~/Ecology and Data Science/Dissertation")
 
