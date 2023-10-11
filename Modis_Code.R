@@ -1,5 +1,4 @@
-#https://www.statisticshowto.com/mann-kendall-trend-test/
-#The minimum number of recommended measurements is therefore at least 8 to 10.
+
 install.packages("Kendall")
 
 library(Kendall)
